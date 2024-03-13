@@ -1,0 +1,11 @@
+{
+    "lockedFiles": [
+        "alexsmobs-1.21.1.jar",
+        "locked_mod.jar"
+    ],
+    "descriptions": {
+        "alexsmobs-1.21.1.jar": "This is the description for mod1.",
+        "mod2.jar": "Description for mod2 goes here.",
+        "mod3.jar": "Another mod with a description."
+    }
+}
