@@ -1,0 +1,21 @@
+{
+  "lockedFiles": ["mod3.jar"],
+  "mods": {
+    "mod1.jar": {
+      "logo": "https://example.com/mod1_logo.png",
+      "description": "Description of mod 1"
+    },
+    "mod2.jar": {
+      "logo": "https://example.com/mod2_logo.png",
+      "description": "Description of mod 2"
+    },
+    "mod3.jar": {
+      "logo": "https://example.com/mod3_logo.png",
+      "description": "Description of mod 3"
+    },
+    "mod4.jar": {
+      "logo": "https://example.com/mod4_logo.png",
+      "description": "Description of mod 4"
+    }
+  }
+}
