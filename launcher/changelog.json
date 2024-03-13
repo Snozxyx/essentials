@@ -1,1 +1,4 @@
-
+{
+    "changelog_version": "1.0.0",
+    "changelog_new": "This is the first release of our application. Welcome!"
+}
