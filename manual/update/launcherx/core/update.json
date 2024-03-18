@@ -1,0 +1,15 @@
+{
+  "version": "1.2.0",
+  "windows": {
+    "downloadUrl": "https://example.com/updates/app-setup-win.exe",
+    "version": "1.2.0"
+  },
+  "macos": {
+    "downloadUrl": "https://example.com/updates/app-macos.zip",
+    "version": "1.2.0"
+  },
+  "linux": {
+    "downloadUrl": "https://example.com/updates/app-linux.tar.gz",
+    "version": "1.2.0"
+  }
+}
