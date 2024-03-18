@@ -1,15 +1,15 @@
 {
-  "version": "1.2.0",
+  "version": "1.6.8",
   "windows": {
-    "downloadUrl": "https://example.com/updates/app-setup-win.exe",
-    "version": "1.2.0"
+    "downloadUrl": "https://github.com/Snozxyx/LauncherX/releases/download/6.0.6/LauncherX-win-x64.exe",
+  "version": "1.6.8",
   },
   "macos": {
-    "downloadUrl": "https://example.com/updates/app-macos.zip",
-    "version": "1.2.0"
+    "downloadUrl": "https://github.com/Snozxyx/LauncherX/releases/download/6.0.6/LauncherX-mac-x64.zip",
+  "version": "1.6.8",
   },
   "linux": {
-    "downloadUrl": "https://example.com/updates/app-linux.tar.gz",
-    "version": "1.2.0"
+    "downloadUrl": "https://github.com/Snozxyx/LauncherX/releases/download/6.0.6/LauncherX-linux-x64.tar.gz",
+  "version": "1.6.8",
   }
 }
