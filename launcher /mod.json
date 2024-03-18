@@ -13,6 +13,19 @@
       "logo": "https://example.com/mod3_logo.png",
       "description": "Description of mod 3"
     }, 
+    "SimpleRPC-fabric-1.20-3.2.4.jar": {
+        "category": "clientCore"},
+    "fancymenu_fabric_3.1.2_MC_1.20.1.jar":{
+        "category": "clientCore"},
+    "melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar": {
+      "category": "clientCore"},
+    "konkrete_fabric_1.8.1_MC_1.20.1.jar": {
+      "category": "clientCore"},
+    "CraterLib-Fabric-1.20-1.1.1.jar": {
+      "category": "clientCore"},
+    "Apugli-2.10.1+1.20.1-fabric.jar": {
+"category": "clientCore"},
+    
     "mod4.jar": {
       "logo": "https://example.com/mod4_logo.png",
       "description": "Description of mod 4"
